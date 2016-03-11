@@ -57,6 +57,7 @@ a:hover {
 .marg {
 	padding-top: 10px !important;
 	padding-bottom: 10px !important;
+	margin-top: 10px !important;
 }
 section {
 	margin: 20px 0;
